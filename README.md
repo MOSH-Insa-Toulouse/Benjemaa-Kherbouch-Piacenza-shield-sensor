@@ -1,4 +1,4 @@
-**Connected gas sensor**
+****Connected gas sensor****
 
 **Done By:
 Mohamed Kherbouche, Giuseppe Piacenza, Wael Ben Jemaa**
@@ -37,8 +37,15 @@ In this project we tried to decompose our work into 2 sub-projects:
 - --The second contains all the components previously presented alongside the potion suggested the résistance of regeneration of the sensor R heater. We choose a bipolar transistor 2N222 which will be connected to a digital pin of the Arduino and with a timer we can shut down the R-sensor and restart again.
 
 ![alt text](https://github.com/MOSH-Insa-Toulouse/Benjemaa-Kherbouch-Piacenza-shield-sensor/blob/master/Mosh%20final/images/pro1.PNG)
-Figure 1: schematic of sub-project 1
 
+
+                                               Figure 1: schematic of sub-project 1
+                                               
+                                               
+![alt text](https://github.com/MOSH-Insa-Toulouse/Benjemaa-Kherbouch-Piacenza-shield-sensor/blob/master/Mosh%20final/images/pro2.PNG)
+                                               
+                                               
+                                               Figure 2: schematic of sub-project 2
 
 
 **PCB:**
