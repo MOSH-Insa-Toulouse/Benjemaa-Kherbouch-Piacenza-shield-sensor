@@ -10,7 +10,7 @@ The &quot;connected gas sensor&quot; project is part of the Microcontrollers and
 During this lecture we had intercourse with microcontrollers through Arduino and Open-Source Hardware. We done also practical with the Arduino platform to prototype and quickly iterate projects.
 
 We also learned to use the KiCad free software to design our own PCB.
-ss
+
 **Introduction**
 
 This Project consists on designing and implementing an Arduino shield for a LoRa RN2483 module alongside a Grove MQ-x gas sensor.
