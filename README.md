@@ -7,7 +7,7 @@ Mohamed Kherbouche, Giuseppe Piacenza, Wael Ben Jemaa**
 
 The &quot;connected gas sensor&quot; project is part of the Microcontrollers and Open-Source Hardware (Smart Devices)module of the advanced master Innovative &amp; Secure IoT systems at INSA Toulouse.
 
-During this lecture we had intercourse with microcontrollers through Arduino and Open-Source Hardware. We done also practical with the Arduino platform to prototype and quickly iterate projects.
+During this lecture we had intercourse with microcontrollers through Arduino and Open-Source Hardware. We done also practical with the Arduino platform to prototype and smulate projects.
 
 We also learned to use the KiCad free software to design our own PCB.
 
